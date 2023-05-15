@@ -1,6 +1,6 @@
 <img src=".github/assets/Capa.png" width="100%">
 
-# 2nd challenge: Coffee Delivery <img src=".github/assets/Logo.png" width="10%">
+# 2nd challenge: Coffee Delivery <img src=".github/assets/Logo.png" width="2%">
 
 2nd challenge of Rocketseat 🚀, which was proposed to make a coffee delivery web application, that consists in the following screens: home, check out and delivery pages.
 
